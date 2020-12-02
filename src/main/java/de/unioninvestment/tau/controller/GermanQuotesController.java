@@ -8,7 +8,7 @@ public class GermanQuotesController {
 
     @RequestMapping("/")
     public String index() {
-        return "üäöÜÖÄß";
+        return "„“";
     } //„“
 
 }
